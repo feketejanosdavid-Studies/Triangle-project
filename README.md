@@ -20,7 +20,7 @@ git clone https://github.com/feketejanosdavid-Studies/Triangle-project.git
 ~ git status -u   --státuszt megnézed <br>
 ~ git add .   --hozzá adod a mappában lévő fájlokat
 
-## FONTOS - Hozzá ne merd adni a node_modules mappát!
+<b>FONTOS - Hozzá ne merd adni a node_modules mappát!</b>
 
 ~ git commit -a -m "Commit neve"
 
