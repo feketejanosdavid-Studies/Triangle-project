@@ -8,7 +8,9 @@ Telepítsd a fenti fájlokat, majd a fájlok mappáában nyiss egy cmd-ét és a
 ~npm install <br>
 ~npm start
 
-# Olvasd el, ha segítség kell a feltöltéshez.
+<br><br><br><br><br>
+<hr>
+## Olvasd el, ha segítség kell a feltöltéshez:
 
 ## Feltőltés módja az alábbi:
 
