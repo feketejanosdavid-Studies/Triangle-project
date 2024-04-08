@@ -1,0 +1,21 @@
+{
+  "name": "triangle",
+  "version": "1.0.0",
+  "description": "~ git remote add origin https://github.com/feketejanosdavid-Studies/Triangle-project.git <br>\r ~ git branch -M main              -- main helyett mondjuk a saját keresztnevedet add meg. <br>\r ~ git push -u origin main         -- ugyanaz igaz itt is.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "author": "Ritzl Bence, Krizsicskó Márk, Dobány Norbert, Fekete János",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "browser-sync": "^3.0.2"
+  }
+}
