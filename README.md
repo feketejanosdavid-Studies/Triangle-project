@@ -1,3 +1,13 @@
+# Háromszög területszámító program.
+
+A program önmagában három hibát tartalmaz, amit a tesztelés alatt fel kell fedezni!
+
+## Telepítés / indítás:
+
+Telepítsd a fenti fájlokat, majd a fájlok mappáában nyiss egy cmd-ét és a két adott parancs tán elindul a program: <br>
+~npm install <br>
+~npm start
+
 # Olvasd el, ha segítség kell a feltöltéshez.
 
 ## Feltőltés módja az alábbi:
