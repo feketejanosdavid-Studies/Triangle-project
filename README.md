@@ -1,42 +1,16 @@
 # Háromszög területszámító program.
 
-A program önmagában három hibát tartalmaz, amit a tesztelés alatt fel kell fedezni!
-
-## Telepítés / indítás:
-
-Telepítsd a fenti fájlokat, majd a fájlok mappáában nyiss egy cmd-ét és a két adott parancs tán elindul a program: <br>
-~npm install <br>
-~npm start
-
-<br><br><br><br><br>
-<hr>
-## Olvasd el, ha segítség kell a feltöltéshez:
-
-## Feltőltés módja az alábbi:
-
-~ git remote add origin https://github.com/feketejanosdavid-Studies/Triangle-project.git <br>
-~ git branch -M main              -- main helyett mondjuk a saját keresztnevedet add meg. <br>
-~ git push -u origin main         -- ugyanaz igaz itt is. 
-
-## Ha leszeretnéd tölteni a projekt változásait:
-
-a, van már egy projekt mappád, amibe az előző verzió fent van:
-git pll
-
-b, nincs:
+## Letöltés, oldal indítása
+adott parancsot adjk ki a kívánt letelepítendő mappába:
+```cmd
 git clone https://github.com/feketejanosdavid-Studies/Triangle-project.git
+```
+ha sikerült letölteni, akkor az adott mappát Visual Studio Coddal megnyitva az adott billentyűkombinációt kell lenyomni: <br>
+Ctrl + J <br>
 
-## Commit létrehozása:
-
-~ git init    --meghívod az adott projekthez a git funkciót <br>
-~ git status -u   --státuszt megnézed <br>
-~ git add .   --hozzá adod a mappában lévő fájlokat
-
-<b>FONTOS - Hozzá ne merd adni a node_modules mappát!</b>
-
-~ git commit -a -m "Commit neve"
-
-utánna mehet:
-    git branch -M main              -- main helyett mondjuk a saját keresztnevedet add meg. + ha nem lennél benne ebbe a branch-ben <br>
-    git push -u origin main         -- ugyanaz igaz itt is.
+Ezután a cmd-be az alábbi két parancsot kell kiadni, és a program működőképes:
+```cmd
+npm install
+npm start
+```
 
