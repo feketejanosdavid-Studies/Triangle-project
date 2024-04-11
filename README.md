@@ -5,7 +5,7 @@ adott parancsot add ki a kiválasztott mappába:
 ```cmd
 git clone https://github.com/feketejanosdavid-Studies/Triangle-project.git
 ```
-ha sikerült letölteni, akkor az adott mappát Visual Studio Coddal megnyitva az adott billentyűkombinációt kell lenyomni: <br>
+ha sikerült letölteni, akkor a letöltött mappában a Visual Studio Code-ot megnyitva az adott billentyűkombinációt kell lenyomni: <br>
 Ctrl + J <br>
 
 Ezután a cmd-be az alábbi két parancsot kell kiadni, és a program működőképes:
