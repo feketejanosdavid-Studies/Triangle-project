@@ -3,36 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Háromszög Területszámítás</title>
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="bootstrap.css">
+    <title>Háromszög</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.css">
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center mb-5 mt-3 bg-dark text-light rounded p-2">Háromszög területszámító program</h1>
-        <form class="p-5 bg-dark text-light rounded">
-            <div class="form-group">
-                <label for="side" class="form-label">Oldal</label>
-                <input type="text" required class="form-control mb-2 mt-1" id="side" placeholder="Add meg az adott oldalt...">
+        <h1 class="text-center mb-5 mt-3 bg-dark text-light rounded p-2">Válassz az alábbiak közül</h1>
+        <div class="row text-center">
+            <div class="col">
+                <div class="link"><a href="terulet.html" class="button">Kerületszámítás</a></div>
             </div>
-            <div class="form-group">
-                <label for="height" class="form-label">Adott oldalhoz tartozó magasság</label>
-                <input type="text" required class="form-control mb-3 mt-2" id="height" placeholder="Add meg az adott oldalhoz tartozó magasságot...">
+            <div class="col">
+                <div class="link"><a class="button" href="terulet.html">Területszámítás</a></div>
             </div>
-            <div class="text-center">
-                <button type="button" id="submit" class="btn btn-primary mb-1">Számol</button>
-            </div>
-            <div class="form-group">
-                <label for="result" class="form-label">Eredmény</label>
-                <input type="text" readonly class="form-control" id="result">
-            </div>
-            
-        </form>
-        <div id="list">
-            Összes eredmény:<br>
         </div>
     </div>
-    
     <script src="script.js"></script>
 </body>
 </html>

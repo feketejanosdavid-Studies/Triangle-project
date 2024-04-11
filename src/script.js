@@ -18,6 +18,6 @@ function startCalc()
 
 function calcResult(side,height)
 {
-    return (side*height)/2
+    return (side*height)
 }
 
