@@ -1,5 +1,5 @@
 # Háromszög területszámító program.
-
+<i>Szoftvertesztelés 2024 - a szoftver hibákat tartalmazhat</i>
 ## Letöltés, oldal indítása
 adott parancsot add ki a kiválasztott mappába:
 ```cmd
@@ -38,3 +38,7 @@ nem szabad eredménnyel szolgálnia, valamint nem szabad, hogy értéket vegyen 
 Reszponzívitás szempontjából, minden nézetet tekintve látszódnia kell minden felületnek.
 Működés szempontjából a bevitt adatok az eredménnyel együtt megjelenik a számító felület alatt,
 sötét háttérrel, a programban láthatónak kell lennie az összes adatnak amit becittünk. <br>
+
+## Tesztelendő feladatok
+A programnak a fenti leírásnak megfelelően kell működnie, semmi jelenlegi hibának nem szabad lennie. A programak mint működésbeli, mint reszponzivitás alapján hibátlannak kell lennie. <br>
+Kérjük, teszteljétek le, hogy a fenti leírás alapján a program lefut-e hiba nélkül!
