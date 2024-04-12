@@ -41,4 +41,5 @@ sötét háttérrel, a programban láthatónak kell lennie az összes adatnak am
 
 ## Tesztelendő feladatok
 A programnak a fenti leírásnak megfelelően kell működnie, semmi jelenlegi hibának nem szabad lennie. A programak mint működésbeli, mint reszponzivitás alapján hibátlannak kell lennie. <br>
+
 Kérjük, teszteljétek le, hogy a fenti leírás alapján a program lefut-e hiba nélkül!
